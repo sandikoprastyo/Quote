@@ -1,2 +1,2 @@
 # Quote
-## Link['https://sandikoprastyo.github.io/Quote/']
+https://sandikoprastyo.github.io/Quote/
